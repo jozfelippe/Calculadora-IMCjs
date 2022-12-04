@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&family=Emilys+Candy&family=Henny+Penny&family=Inconsolata:wght@200;400&family=Irish+Grover&family=Kreon:wght@300&family=Poppins:wght@300&family=Rampart+One&family=Roboto+Slab:wght@100&family=Roboto:wght@300&family=Varela+Round&display=swap');
+
+body{
+    width: 100%;
+    height: 100vh;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(42,79,149);
+    background: linear-gradient(184deg, rgba(42,79,149,1) 0%, rgba(255,221,167,1) 90%);
+    
+    }
+
+    .alt{
+        font-family: 'Roboto', sans-serif
+        
+    }
+
+    .h3{
+        margin: 15px;
+    }
+
+    button{
+    
+        background-color: rgb(255, 255, 255);
+        padding: 0.4rem 1.5rem;
+        border-radius: 10px;
+        cursor: pointer;
+        border:  50px;
+        justify-content: center;
+        margin: 15px;
+    }
